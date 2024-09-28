@@ -1,0 +1,78 @@
+Estructura en árbol
+
+menú
+├── Gofres Belgas
+│   ├── precio: 5.95
+│   ├── descripción: Dos de nuestros famosos Gofres belgas con abundante sirope
+│   └── calorías: 650
+├── Gofres Belgas con fresas
+│   ├── precio: 7.95
+│   ├── descripción: Ligeros gofres belgas cubiertos de fresas y nata montada
+│   └── calorías: 900
+├── Gofres Belgas con frutas del bosque
+│   ├── precio: 8.95
+│   ├── descripción: Ligeros gofres belgas cubiertos con frutas del bosque y nata montada
+│   └── calorías: 900
+├── Tostada Francesa
+│   ├── precio: 4.50
+│   ├── descripción: Dos gruesas rebanadas de nuestro pan francés casero
+│   └── calorías: 600
+└── Desayuno de la casa
+    ├── precio: 6.95
+    ├── descripción: Dos huevos, bacon o salchicha, tostada y patatas fritas
+    └── calorías: 950
+
+
+
+CDs
+├── CD1
+│   ├── Título: Still got the blues
+│   ├── Artista: Gary Moore
+│   ├── País de origen: UK
+│   ├── Compañía discográfica: Virgin records
+│   ├── Precio: 10.20€
+│   ├── Año de publicación: 1990
+│   └── Género: Blues rock
+├── CD2
+│   ├── Título: One night only
+│   ├── Artista: Bee Gees
+│   ├── País de origen: UK
+│   ├── Compañía discográfica: Polydor
+│   ├── Precio: 10.90€
+│   ├── Año de publicación: 1998
+│   └── Género: Disco
+├── CD3
+│   ├── Título: When a man loves a woman
+│   ├── Artista: Percy Sledge
+│   ├── País de origen: USA
+│   ├── Compañía discográfica: Atlantic
+│   ├── Precio: 8.70€
+│   ├── Año de publicación: 1987
+│   └── Género: Soul
+├── CD4
+│   ├── Título: Big Willie style
+│   ├── Artista: Will Smith
+│   ├── País de origen: USA
+│   ├── Compañía discográfica: Columbia
+│   ├── Precio: 9.90€
+│   ├── Año de publicación: 1997
+│   └── Género: Hip-hop
+├── CD5
+│   ├── Título: La canción de Juan Perro
+│   ├── Artista: Radio Futura
+│   ├── País de origen: España
+│   ├── Compañía discográfica: Sony Music-Ariola
+│   ├── Precio: 9.90€
+│   ├── Año de publicación: 1987
+│   └── Género: Rock en español
+└── CD6
+    ├── Título: The dock of the bay
+    ├── Artista: Otis Redding
+    ├── País de origen: USA
+    ├── Compañía discográfica: Atlantic
+    ├── Precio: 7.90€
+    ├── Año de publicación: 1987
+    └── Género: Soul
+
+
+

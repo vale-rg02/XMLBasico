@@ -1,0 +1,49 @@
+
+
+<?xml version="1.0" encoding="UTF-8"?>
+<arboleda>
+  <arbol>
+    <nombre_comun>Arce de Montpellier</nombre_comun>
+    <nombre_cientifico>Acer monspessulanum</nombre_cientifico>
+    <vegetacion>Caducifolio</vegetacion>
+    <altura_min>6</altura_min>
+    <altura_max>10</altura_max>
+    <forma_copa>Esférica</forma_copa>
+    <estructura>Tronco principal recto con bifurcaciones. Ramaje colgante</estructura>
+    <color_hoja_primavera>Haz verde brillante, envés verde blanquecino</color_hoja_primavera>
+    <resistencia_heladas>-15</resistencia_heladas>
+  </arbol>
+  <arbol>
+    <nombre_comun>Olivo</nombre_comun>
+    <nombre_cientifico>Olea europea</nombre_cientifico>
+    <vegetacion>Perenne</vegetacion>
+    <altura_min>8</altura_min>
+    <altura_max>15</altura_max>
+    <forma_copa>Irregular</forma_copa>
+    <estructura>Tronco principal irregular con bifurcaciones. Ramaje tortuoso</estructura>
+    <color_hoja_primavera>Haz verde oscuro, envés verde plateado</color_hoja_primavera>
+    <resistencia_heladas>-10</resistencia_heladas>
+  </arbol>
+  <arbol>
+    <nombre_comun>Plátano</nombre_comun>
+    <nombre_cientifico>Platanus orientalis</nombre_cientifico>
+    <vegetacion>Caducifolio</vegetacion>
+    <altura_min>20</altura_min>
+    <altura_max>25</altura_max>
+    <forma_copa>Ovoidal</forma_copa>
+    <estructura>Tronco principal recto. Ramaje expandido</estructura>
+    <color_hoja_primavera>Haz verde medio, envés verde claro</color_hoja_primavera>
+    <resistencia_heladas>-10</resistencia_heladas>
+  </arbol>
+  <arbol>
+    <nombre_comun>Encina</nombre_comun>
+    <nombre_cientifico>Quercus ilex</nombre_cientifico>
+    <vegetacion>Perenne</vegetacion>
+    <altura_min>20</altura_min>
+    <altura_max>25</altura_max>
+    <forma_copa>Esférica o elíptica irregular</forma_copa>
+    <estructura>Tronco principal recto. Ramaje tortuoso</estructura>
+    <color_hoja_primavera>Hojas jóvenes: verde plateado. Hojas antiguas: haz verde oscuro, envés plateado</color_hoja_primavera>
+    <resistencia_heladas>-15</resistencia_heladas>
+  </arbol>
+</arboleda>

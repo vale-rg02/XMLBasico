@@ -1,0 +1,47 @@
+
+
+<?xml version="1.0" encoding="UTF-8"?>
+<factura>
+  <emisor>
+    <nombre>Nombre de la empresa</nombre>
+    <direccion>Calle, Ciudad, CP</direccion>
+    <contacto>
+      <telefono>000-000-0000</telefono>
+      <email>correo@ejemplo.com</email>
+      <web>www.ejemplo.com</web>
+    </contacto>
+  </emisor>
+  <receptor>
+    <nombre>Nombre del cliente</nombre>
+    <direccion>Calle, Ciudad, CP</direccion>
+  </receptor>
+  <informacion_factura>
+    <numero>12345</numero>
+    <fecha_emision>2023-11-23</fecha_emision>
+    <fecha_vencimiento>2023-12-23</fecha_vencimiento>
+    <condiciones_pago>Net 30</condiciones_pago>
+  </informacion_factura>
+  <lineas>
+    <linea>
+      <descripcion>Descripción del producto o servicio</descripcion>
+      <cantidad>1</cantidad>
+      <precio_unitario>10.00</precio_unitario>
+      <importe>10.00</importe>
+    </linea>
+    </lineas>
+  <totales>
+    <subtotal>100.00</subtotal>
+    <impuestos>
+      <impuesto>
+        <tipo>IVA</tipo>
+        <base_imponible>100.00</base_imponible>
+        <porcentaje>21</porcentaje>
+        <importe>21.00</importe>
+      </impuesto>
+    </impuestos>
+    <total_general>121.00</total_general>
+  </totales>
+  <notas>
+    <nota>Mensaje al cliente</nota>
+  </notas>
+</factura>
